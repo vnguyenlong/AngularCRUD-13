@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 1000,
+      "comment": "Iphone 14",
+      "date": "2022-09-20T17:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "MackBook",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 1000,
+      "comment": "mackbook 16",
+      "date": "2022-09-20T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Long",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 1000,
+      "comment": "bbbbbbb",
+      "date": "2022-09-20T17:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
